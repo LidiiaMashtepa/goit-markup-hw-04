@@ -420,6 +420,7 @@ font-size: 18px;
 
 .footer-container {
     display: flex;
+    align-items: baseline;
 }
 
 .footer-list-item:not(:last-child) {
@@ -499,6 +500,5 @@ font-size: 18px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #FFFFFF;
-    padding-top: 12px;
     margin-bottom: 20px;
 }
